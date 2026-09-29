@@ -30,3 +30,5 @@ La aplicación permite gestionar una base de datos de películas con estas accio
 - Eliminar: `delete.php`
 
 El flujo principal se realiza desde la interfaz de `index.php`.
+
+Enlace de github: https://github.com/HaterOfLag/ejercicio
